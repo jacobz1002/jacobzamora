@@ -1,10 +1,12 @@
-## Developer Portfolio Landing Page Template
+## Jacob Zamora - Data Analysis Portfolio
 
-### Introduction
+### About me
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+Hello! My name is Jacob Zamora and this repository is to showcase my skills and track my progress as an entry-level data analyst. For the past 5 years, I have been using my bachelors degree in Biology to teach the next generation of students ranging from middle school to high school. As a teacher, I used data to guide my decisions and I was fascinated by the things I was able to learn from the data. That is what fueled my pursuit to learn different data analytic techiques.
 
-<img src="images/demo.gif?raw=true"/>
+I have recieved the Google Data Analytics Professional Certification through Coursera in October 2022.
+
+I am continuing to learn different languages and platforms. This repository will be used to showcase my skills.
 
 ### Installation
 
