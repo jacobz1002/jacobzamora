@@ -1,11 +1,10 @@
 title: Jacob Zamora
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/Capture.PNG"
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Entry-Level Data Analyst
   <br><br>
-  Second description 
+  EMail here
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="www.linkedin.com/in/jacob-zamora-bb6297146">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
